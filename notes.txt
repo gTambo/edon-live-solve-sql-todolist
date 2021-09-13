@@ -1,0 +1,33 @@
+ToDo
+
+Strategies to not panic:
+-Build the esay stuff first, build momentum
+-Starting right away while it's fresh
+-take breaks
+
+Setup
+[ ] DB called "weekend-to-do-app"
+    [ ] npm init
+    [ ] install express etc.
+    [ ] server static files
+    [ ] html/js/jQuery/css
+[ ] pool.js configuration
+[ ] database.sql
+    [ ] CREATE TABLE queries
+
+Features
+[ ] Create a task
+    [ ] save to a DB
+    [ ] render the task
+[ ] Complete a task
+    [ ] Style it differently once completed
+[ ] Delete a task 
+
+Styling
+[ ] bg color to page
+[ ] font family and size
+[ ] styling completed task (text color, b-g color)
+
+
+Stretch Goals
+...worry about these later
