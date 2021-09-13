@@ -7,8 +7,8 @@ Strategies to not panic:
 
 Setup
 [ ] DB called "weekend-to-do-app"
-    [ ] npm init
-    [ ] install express etc.
+    [x] npm init
+    [x] install express etc.
     [ ] server static files
     [ ] html/js/jQuery/css
 [ ] pool.js configuration
